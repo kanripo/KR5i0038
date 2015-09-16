@@ -1,7 +1,8 @@
 #-*- mode: org; -*-
-#+DATE: 2015-08-29 17:52:19.937917
+#+DATE: 2015-08-29 17:52:20.195546
 #+PROPERTY: ID KR5i0038
-#+TITLE:參同契分章註 Cantong Qi Fenzhang Zhu
+#+TITLE:參同契分章註
+#+PROPERTY: pinyin Cantong Qi Fenzhang Zhu
 #+PROPERTY: BASEEDITION CK-KZ
 #+PROPERTY: WITNESS CK-KZ
 <pb:CK-KZ_KR5i0038_01p001a>¶
@@ -48,4 +49,4 @@
 　　鼎器妙用章第三十三¶
 　　補塞遺脫章第三十四¶
 　　自叙啟後章第三十五¶
-¶	
+¶
